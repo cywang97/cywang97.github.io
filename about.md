@@ -12,18 +12,18 @@ permalink: /about/
     **Chengyi Wang**, Yu Wu, Yujian Du, Jinyu Li, Shujie Liu, Liang Lu, Shuo Ren, Guoli Ye, Sheng Zhao and Ming Zhou<br>
     InterSpeech 2020
 
-* [Reducing the Latency of End-to-End Streaming Speech Recognition Models with a Scout Network](https://arxiv.org/pdf/2003.10369.pdf) 
-**Chengyi Wang**, Yu Wu, Shujie Liu, Jinyu Li, Liang Lu, Guoli Ye, Ming Zhou
+* [Reducing the Latency of End-to-End Streaming Speech Recognition Models with a Scout Network](https://arxiv.org/pdf/2003.10369.pdf) <br>
+**Chengyi Wang**, Yu Wu, Shujie Liu, Jinyu Li, Liang Lu, Guoli Ye, Ming Zhou<br>
 InterSpeech 2020
 
-* [On the Comparison of Popular End-to-End Models for Large Scale Speech Recognition](https://arxiv.org/pdf/2005.14327)
-Jinyu Li, Yu Wu, Yashesh Gaur, **Chengyi Wang**, Rui Zhao, Shujie Liu
+* [On the Comparison of Popular End-to-End Models for Large Scale Speech Recognition](https://arxiv.org/pdf/2005.14327)<br>
+Jinyu Li, Yu Wu, Yashesh Gaur, **Chengyi Wang**, Rui Zhao, Shujie Liu<br>
 InterSpeech 2020
 
-* [Curriculum Pre-training for End-to-End Speech Translation](https://arxiv.org/pdf/2004.10093)
-**Chengyi Wang**, Yu Wu, Shujie Liu, Ming Zhou, Zhenglu Yang
+* [Curriculum Pre-training for End-to-End Speech Translation](https://arxiv.org/pdf/2004.10093)<br>
+**Chengyi Wang**, Yu Wu, Shujie Liu, Ming Zhou, Zhenglu Yang<br>
 Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL2020)
 
-* [Bridging the Gap between Pre-Training and Fine-Tuning for End-to-End Speech Translation](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-WangC.4794.pdf)
- **Chengyi Wang**, Yu Wu, Shujie Liu, Zhenglu Yang, Ming Zhou
+* [Bridging the Gap between Pre-Training and Fine-Tuning for End-to-End Speech Translation](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-WangC.4794.pdf)<br>
+ **Chengyi Wang**, Yu Wu, Shujie Liu, Zhenglu Yang, Ming Zhou<br>
  34th AAAI Conference on Artificial Intelligence (AAAI 20)
