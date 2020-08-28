@@ -9,8 +9,8 @@ permalink: /about/
 # Publications
 
   * [Semantic mask for transformer based end-to-end speech recognition.](https://arxiv.org/pdf/1912.03010.pdf)
-  **Chengyi Wang**, Yu Wu, Yujian Du, Jinyu Li, Shujie Liu, Liang Lu, Shuo Ren, Guoli Ye, Sheng Zhao and Ming Zhou
-  InterSpeech 2020
+    **Chengyi Wang**, Yu Wu, Yujian Du, Jinyu Li, Shujie Liu, Liang Lu, Shuo Ren, Guoli Ye, Sheng Zhao and Ming Zhou
+    InterSpeech 2020
 
 * [Reducing the Latency of End-to-End Streaming Speech Recognition Models with a Scout Network](https://arxiv.org/pdf/2003.10369.pdf) 
 **Chengyi Wang**, Yu Wu, Shujie Liu, Jinyu Li, Liang Lu, Guoli Ye, Ming Zhou
