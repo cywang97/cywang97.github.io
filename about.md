@@ -8,22 +8,22 @@ permalink: /about/
   
 # Publications
 
-  * Semantic mask for transformer based end-to-end speech recognition. [link](https://arxiv.org/pdf/1912.03010.pdf)
+  * [Semantic mask for transformer based end-to-end speech recognition.](https://arxiv.org/pdf/1912.03010.pdf)
   **Chengyi Wang**, Yu Wu, Yujian Du, Jinyu Li, Shujie Liu, Liang Lu, Shuo Ren, Guoli Ye, Sheng Zhao and Ming Zhou
   InterSpeech 2020
 
-* Reducing the Latency of End-to-End Streaming Speech Recognition Models with a Scout Network [link](https://arxiv.org/pdf/2003.10369.pdf) 
+* [Reducing the Latency of End-to-End Streaming Speech Recognition Models with a Scout Network](https://arxiv.org/pdf/2003.10369.pdf) 
 **Chengyi Wang**, Yu Wu, Shujie Liu, Jinyu Li, Liang Lu, Guoli Ye, Ming Zhou
 InterSpeech 2020
 
-* On the Comparison of Popular End-to-End Models for Large Scale Speech Recognition [link](https://arxiv.org/pdf/2005.14327)
+* [On the Comparison of Popular End-to-End Models for Large Scale Speech Recognition](https://arxiv.org/pdf/2005.14327)
 Jinyu Li, Yu Wu, Yashesh Gaur, **Chengyi Wang**, Rui Zhao, Shujie Liu
 InterSpeech 2020
 
-* Curriculum Pre-training for End-to-End Speech Translation [link](https://arxiv.org/pdf/2004.10093)
+* [Curriculum Pre-training for End-to-End Speech Translation](https://arxiv.org/pdf/2004.10093)
 **Chengyi Wang**, Yu Wu, Shujie Liu, Ming Zhou, Zhenglu Yang
 Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL2020)
 
-* Bridging the Gap between Pre-Training and Fine-Tuning for End-to-End Speech Translation. [link](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-WangC.4794.pdf)
+* [Bridging the Gap between Pre-Training and Fine-Tuning for End-to-End Speech Translation](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-WangC.4794.pdf)
  **Chengyi Wang**, Yu Wu, Shujie Liu, Zhenglu Yang, Ming Zhou
  34th AAAI Conference on Artificial Intelligence (AAAI 20)
