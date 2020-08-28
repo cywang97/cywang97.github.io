@@ -7,9 +7,9 @@ layout: default
   {{ content }}
 
   {% if site.paginate %}
-    {% assign posts = paginator.posts %}
+    {% assign posts = paginator.about %}
   {% else %}
-    {% assign posts = site.posts %}
+    {% assign posts = site.about %}
   {% endif %}
 
   {%- if posts.size > 0 -%}
