@@ -1,6 +1,6 @@
 ---
 layout: archive-taxonomies
-type: categories
+type: tags
 title: Categories
 permalink: /categories/
 ---
