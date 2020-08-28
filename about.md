@@ -8,6 +8,7 @@ permalink: /about/
 # Publications
 
 * Semantic mask for transformer based end-to-end speech recognition. [link](https://arxiv.org/pdf/1912.03010.pdf)
+
 **Chengyi Wang**, Yu Wu, Yujian Du, Jinyu Li, Shujie Liu, Liang Lu, Shuo Ren, Guoli Ye, Sheng Zhao and Ming Zhou
 InterSpeech 2020
 
