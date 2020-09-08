@@ -5,6 +5,8 @@ author: Chengyi Wang
 date: 2020-09-28 10:42:53 +0800
 tags: [Spoken Language Processing, Reading Notes]
 ---
+# Spoken Lauguage Processing(一) 介绍
+
 **本系列文章为《Spoken Lauguage Processing》的笔记，这本书基于微软口语处理系统对语音识别，语音合成等各方面进行了详细介绍。适合作为语音处理的进阶版教程。**
 
 
@@ -29,7 +31,7 @@ tags: [Spoken Language Processing, Reading Notes]
 ### 自动语音识别（Automatic Speech Recognition, ASR)
 ![source-channel model](https://github.com/cywang97/cywang97.github.io/blob/master/_pics/figure1.1.PNG?raw=true "source-channel model")
 
-如图Figure1.1 展示了语音识别系统的源通道模型，在该模型中，说话者的大脑相当于一个Text Generator, 决定了他要说的话$$W$$，通过了一个噪声通道（Noise Communication Channel)产生了语音信号$$X$$,这里噪声通道包括扬声器的语音设备以及语音识别器的语音信号处理组件。最终，语音解码器通过$$X$$还原出文本$$\hat{W}$$,我们希望$$\hat{W}$$与$$W$$能够尽可能地接近。
+如图Figure1.1 展示了语音识别系统的源通道模型，在该模型中，说话者的大脑相当于一个Text Generator, 决定了他要说的话$W$，通过了一个噪声通道（Noise Communication Channel)产生了语音信号$X$,这里噪声通道包括扬声器的语音设备以及语音识别器的语音信号处理组件。最终，语音解码器通过$X$还原出文本$\hat{W}$,我们希望$\hat{W}$与$W$能够尽可能地接近。
 
 ![figure1.2](https://github.com/cywang97/cywang97.github.io/blob/master/_pics/figure1.2.PNG?raw=true "figure1.2")
 
