@@ -2,7 +2,7 @@
 layout: post
 title: Spoken Lauguage Processing(一) 介绍
 author: Chengyi Wang
-date: 2020-09-28 10:42:53 +0800
+date: 2020-09-8 10:42:53 +0800
 tags: [Spoken Language Processing, Reading Notes]
 ---
 # Spoken Lauguage Processing(一) 介绍
