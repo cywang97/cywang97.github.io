@@ -15,9 +15,9 @@ permalink: /about/
     **Chengyi Wang**, Yu Wu, Yujian Du, Jinyu Li, Shujie Liu, Liang Lu, Shuo Ren, Guoli Ye, Sheng Zhao and Ming Zhou<br>
     InterSpeech 2020
 
-* [Reducing the Latency of End-to-End Streaming Speech Recognition Models with a Scout Network](https://arxiv.org/pdf/2003.10369.pdf) <br>
+* [Low Latency End-to-End Streaming Speech Recognition with a Scout Network](https://arxiv.org/pdf/2003.10369.pdf) <br>
 **Chengyi Wang**, Yu Wu, Shujie Liu, Jinyu Li, Liang Lu, Guoli Ye, Ming Zhou<br>
-InterSpeech 2020
+InterSpeech 2020 (Best student paper nominated)
 
 * [On the Comparison of Popular End-to-End Models for Large Scale Speech Recognition](https://arxiv.org/pdf/2005.14327)<br>
 Jinyu Li, Yu Wu, Yashesh Gaur, **Chengyi Wang**, Rui Zhao, Shujie Liu<br>
